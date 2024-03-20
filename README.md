@@ -4,7 +4,7 @@
 
 ### Deployed Link: [Live Demo](https://flask-app-jade.vercel.app/)
 
-### Project Walkthrough: [YouTube Tutorial](https://link-to-your-video)
+### Project Walkthrough: [YouTube Tutorial](https://youtu.be/miQmOlPF_Gs)
 
 ### Vercel: [Learn More About Vercel](https://vercel.com)
 
